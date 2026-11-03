@@ -1,0 +1,22 @@
+YOUTUBE EDUCATIONAL QUALITY REPORT
+
+Video: Learn JavaScript - Full Course for Beginners
+URL: https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+OVERALL SCORE: Insufficient Evidence
+
+Sentiment: None
+Confidence: Insufficient_data (0%)
+Evidence Coverage: 0%
+
+ASPECT SCORES
+• Insufficient evidence across evaluated aspects
+
+KEY STRENGTHS
+• None identified from viewer comments
+
+KEY WEAKNESSES
+• None identified from viewer comments
+
+SUGGESTIONS
+• Gather more viewer feedback to analyze pedagogical quality.

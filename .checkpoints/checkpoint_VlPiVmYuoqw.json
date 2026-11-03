@@ -1,0 +1,633 @@
+{
+  "videoId": "VlPiVmYuoqw",
+  "batches": {
+    "0": {
+      "batchIndex": 0,
+      "commentIds": [
+        "c_1",
+        "c_2",
+        "c_3",
+        "c_4",
+        "c_5",
+        "c_6",
+        "c_7",
+        "c_8",
+        "c_9",
+        "c_10",
+        "c_11",
+        "c_12",
+        "c_13",
+        "c_14",
+        "c_15",
+        "c_16",
+        "c_17",
+        "c_18",
+        "c_19",
+        "c_20",
+        "c_21",
+        "c_22",
+        "c_23",
+        "c_24",
+        "c_25",
+        "c_26",
+        "c_27",
+        "c_28",
+        "c_29",
+        "c_30",
+        "c_31",
+        "c_32",
+        "c_33",
+        "c_34",
+        "c_35",
+        "c_36",
+        "c_37",
+        "c_38",
+        "c_39",
+        "c_40",
+        "c_41",
+        "c_42",
+        "c_43",
+        "c_44",
+        "c_45",
+        "c_46",
+        "c_47",
+        "c_48",
+        "c_49",
+        "c_50"
+      ],
+      "classifications": [
+        {
+          "commentId": "c_1",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.95,
+              "evidence": "This tutorial took a lot of efforts, hope this tutorial helps you all"
+            }
+          ],
+          "praisedPoints": [
+            "Effort put into tutorial",
+            "Helpful intent"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_2",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.9,
+              "evidence": "Thank you so much mam , we were waiting for this"
+            }
+          ],
+          "praisedPoints": [
+            "Appreciation for the video"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_3",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.9,
+              "evidence": "Thanks You So Much Apna College For This Amazing Session"
+            }
+          ],
+          "praisedPoints": [
+            "Amazing session"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_4",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_5",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.9,
+              "evidence": "Thank you so much mam for this video we were waiting for this video"
+            }
+          ],
+          "praisedPoints": [
+            "Gratitude for the video"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_6",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.85,
+              "evidence": "Amazing love from Pakistan"
+            }
+          ],
+          "praisedPoints": [
+            "Positive love from viewers"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_7",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_8",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_9",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_10",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_11",
+          "relevance": "RELEVANT",
+          "sentiment": "NEGATIVE",
+          "aspects": [
+            {
+              "category": "CONTENT_ACCURACY",
+              "opinion": "CRITICISM",
+              "confidence": 0.95,
+              "evidence": "api shift hogaye hai apke last project ab kam nahi kar raha 404 error"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": [
+            "Broken API in project"
+          ]
+        },
+        {
+          "commentId": "c_12",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_13",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_14",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_15",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_16",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_17",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_18",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_19",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_20",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_21",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_22",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_23",
+          "relevance": "RELEVANT",
+          "sentiment": "NEGATIVE",
+          "aspects": [
+            {
+              "category": "CONTENT_ACCURACY",
+              "opinion": "CRITICISM",
+              "confidence": 0.95,
+              "evidence": "currency converter api is not working rightly I can't found that api"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": [
+            "API link missing / non‑functional"
+          ]
+        },
+        {
+          "commentId": "c_24",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_25",
+          "relevance": "RELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [
+            {
+              "category": "CONTENT_ACCURACY",
+              "opinion": "NEUTRAL",
+              "confidence": 0.85,
+              "evidence": "code snippet asking if it is correct"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_26",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_27",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_28",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_29",
+          "relevance": "IRRELEVANT",
+          "sentiment": "UNCERTAIN",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        }
+      ],
+      "provider": "groq",
+      "durationMs": 27622,
+      "tokens": 5145,
+      "timestamp": "2026-11-03T13:54:53.434Z"
+    },
+    "1": {
+      "batchIndex": 1,
+      "commentIds": [
+        "c_51",
+        "c_52",
+        "c_53",
+        "c_54",
+        "c_55",
+        "c_56",
+        "c_57",
+        "c_58",
+        "c_59",
+        "c_60",
+        "c_61",
+        "c_62",
+        "c_63",
+        "c_64",
+        "c_65",
+        "c_66",
+        "c_67",
+        "c_68",
+        "c_69",
+        "c_70",
+        "c_71",
+        "c_72",
+        "c_73",
+        "c_74",
+        "c_75",
+        "c_76",
+        "c_77",
+        "c_78",
+        "c_79",
+        "c_80",
+        "c_81",
+        "c_82",
+        "c_83",
+        "c_84",
+        "c_85",
+        "c_86",
+        "c_87",
+        "c_88",
+        "c_89",
+        "c_90",
+        "c_91",
+        "c_92",
+        "c_93",
+        "c_94",
+        "c_95",
+        "c_96",
+        "c_97",
+        "c_98",
+        "c_99",
+        "c_100"
+      ],
+      "classifications": [
+        {
+          "commentId": "c_51",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_52",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_53",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_54",
+          "relevance": "RELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [
+            {
+              "category": "OTHER",
+              "opinion": "NEUTRAL",
+              "confidence": 0.85,
+              "evidence": "Reserved word ki list send ker da"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_55",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.97,
+              "evidence": "Your tutorials are outstanding"
+            }
+          ],
+          "praisedPoints": [
+            "outstanding tutorials"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_56",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_57",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_58",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_59",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_60",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.96,
+              "evidence": "Only one Video is Enough for the JS"
+            }
+          ],
+          "praisedPoints": [
+            "single video covers all JS topics"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_61",
+          "relevance": "RELEVANT",
+          "sentiment": "NEGATIVE",
+          "aspects": [
+            {
+              "category": "CLARITY",
+              "opinion": "CRITICISM",
+              "confidence": 0.94,
+              "evidence": "I can't understand the currency converter project code"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": [
+            "currency converter code is unclear"
+          ]
+        },
+        {
+          "commentId": "c_62",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_63",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_64",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "CONTENT_DEPTH",
+              "opinion": "PRAISE",
+              "confidence": 0.88,
+              "evidence": "each and every topic is very important"
+            }
+          ],
+          "praisedPoints": [
+            "covers all important topics"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_65",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_66",
+          "relevance": "RELEVANT",
+          "sentiment": "NEGATIVE",
+          "aspects": [
+            {
+              "category": "PRACTICAL_EXAMPLES",
+              "opinion": "CRITICISM",
+              "confidence": 0.9,
+              "evidence": "koi faida nahi practice bro practice"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": [
+            "lack of practical value"
+          ]
+        },
+        {
+          "commentId": "c_67",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_68",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.95,
+              "evidence": "good"
+            }
+          ]
+        }
+      ],
+      "provider": "groq",
+      "durationMs": 27236,
+      "tokens": 5067,
+      "timestamp": "2026-11-03T13:54:53.048Z"
+    }
+  },
+  "createdAt": "2026-11-03T13:54:53.048Z",
+  "updatedAt": "2026-11-03T13:54:53.434Z"
+}

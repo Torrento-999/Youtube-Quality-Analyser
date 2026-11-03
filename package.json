@@ -1,0 +1,18 @@
+{
+  "name": "youtube-comment-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/youtubesearch.test.js && node tests/commentPreprocessor.test.js && node tests/absaBatchClassifier.test.js && node tests/scoringAggregator.test.js && node tests/finalSynthesizer.test.js && node tests/pipeline.test.js && node tests/verification.test.js && node tests/reportFormatter.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.32.0",
+    "axios": "^1.21.0",
+    "dotenv": "^18.0.9",
+    "groq-sdk": "^1.6.0"
+  }
+}

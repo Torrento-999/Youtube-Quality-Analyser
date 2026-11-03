@@ -1,0 +1,338 @@
+{
+  "videoId": "iNwT2s0Z_E8",
+  "batches": {
+    "0": {
+      "batchIndex": 0,
+      "commentIds": [
+        "c_1",
+        "c_2",
+        "c_3",
+        "c_4",
+        "c_5",
+        "c_6",
+        "c_7",
+        "c_8",
+        "c_9",
+        "c_10",
+        "c_11",
+        "c_12",
+        "c_13",
+        "c_14",
+        "c_15",
+        "c_16",
+        "c_17",
+        "c_18",
+        "c_19",
+        "c_20",
+        "c_21",
+        "c_22",
+        "c_23",
+        "c_24",
+        "c_25",
+        "c_26",
+        "c_27",
+        "c_28",
+        "c_29",
+        "c_30",
+        "c_31",
+        "c_32",
+        "c_33",
+        "c_34",
+        "c_35",
+        "c_36",
+        "c_37",
+        "c_38",
+        "c_39",
+        "c_40",
+        "c_41",
+        "c_42",
+        "c_43",
+        "c_44",
+        "c_45",
+        "c_46",
+        "c_47",
+        "c_48",
+        "c_49",
+        "c_50"
+      ],
+      "classifications": [
+        {
+          "commentId": "c_1",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_2",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "ENGAGEMENT",
+              "opinion": "PRAISE",
+              "confidence": 0.96,
+              "evidence": "Thankyou for your patience"
+            }
+          ],
+          "praisedPoints": [
+            "Appreciates the presenter’s patience"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_3",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_4",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "CLARITY",
+              "opinion": "PRAISE",
+              "confidence": 0.95,
+              "evidence": "Very proud of you bro that your explain in kannada"
+            }
+          ],
+          "praisedPoints": [
+            "Commends explanation in Kannada"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_5",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "CLARITY",
+              "opinion": "PRAISE",
+              "confidence": 0.94,
+              "evidence": "Glad you liked the explanation in Kannada"
+            }
+          ],
+          "praisedPoints": [
+            "Appreciates the clear Kannada explanation"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_6",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_7",
+          "relevance": "RELEVANT",
+          "sentiment": "NEGATIVE",
+          "aspects": [
+            {
+              "category": "CONTENT_DEPTH",
+              "opinion": "CRITICISM",
+              "confidence": 0.93,
+              "evidence": "DOM BOM not essential"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": [
+            "Mentions unnecessary DOM/BOM coverage"
+          ]
+        },
+        {
+          "commentId": "c_8",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_9",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_10",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "NEUTRAL",
+              "confidence": 0.9,
+              "evidence": "Sir upload more videos"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_11",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_12",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_13",
+          "relevance": "RELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [
+            {
+              "category": "CONTENT_DEPTH",
+              "opinion": "NEUTRAL",
+              "confidence": 0.92,
+              "evidence": "js only basic idena athava full hekidira"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_14",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        }
+      ],
+      "provider": "groq",
+      "durationMs": 7167,
+      "tokens": 4918,
+      "timestamp": "2026-11-03T13:51:50.991Z"
+    },
+    "1": {
+      "batchIndex": 1,
+      "commentIds": [
+        "c_51",
+        "c_52",
+        "c_53",
+        "c_54",
+        "c_55",
+        "c_56",
+        "c_57",
+        "c_58"
+      ],
+      "classifications": [
+        {
+          "commentId": "c_51",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_52",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_53",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_54",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "CLARITY",
+              "opinion": "PRAISE",
+              "confidence": 0.95,
+              "evidence": "super Explanation"
+            }
+          ],
+          "praisedPoints": [
+            "Great explanation clarity"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_55",
+          "relevance": "RELEVANT",
+          "sentiment": "POSITIVE",
+          "aspects": [
+            {
+              "category": "GENERAL_QUALITY",
+              "opinion": "PRAISE",
+              "confidence": 0.9,
+              "evidence": "Thank you"
+            }
+          ],
+          "praisedPoints": [
+            "Appreciation for the video"
+          ],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_56",
+          "relevance": "RELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [
+            {
+              "category": "PRACTICAL_EXAMPLES",
+              "opinion": "NEUTRAL",
+              "confidence": 0.9,
+              "evidence": "Please upload vedios about create a project like crud oparation"
+            }
+          ],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_57",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        },
+        {
+          "commentId": "c_58",
+          "relevance": "IRRELEVANT",
+          "sentiment": "NEUTRAL",
+          "aspects": [],
+          "praisedPoints": [],
+          "criticizedPoints": []
+        }
+      ],
+      "provider": "groq",
+      "durationMs": 2784,
+      "tokens": 1954,
+      "timestamp": "2026-11-03T13:51:46.609Z"
+    }
+  },
+  "createdAt": "2026-11-03T13:51:46.609Z",
+  "updatedAt": "2026-11-03T13:51:50.991Z"
+}
